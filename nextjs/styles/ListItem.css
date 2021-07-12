@@ -1,0 +1,7 @@
+.MuiListItemText-multiline.MuiListItemText-root {
+    margin-bottom: 0;
+}
+
+.MuiListItem-gutters .MuiListItemAvatar-root {
+    min-width: auto;
+}
