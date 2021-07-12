@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/opt/homebrew/bin/python3
 import os
 from brownie import SimpleCollectible, accounts, network, config
 from dotenv import load_dotenv
